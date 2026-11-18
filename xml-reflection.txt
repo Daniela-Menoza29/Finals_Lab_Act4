@@ -1,0 +1,15 @@
+Questions for Reflection:
+
+1. What are the basic rules of XML you applied in this lab?
+
+Kailangan mong sabihin na gumamit ka ng proper opening and closing tags, isang root element, at tamang nesting.
+
+
+2. Why does XML need a single root element?
+
+Dahil kailangan may isang main element na naglalaman ng lahat ng ibang elements para maging organized at well-formed ang XML document.
+
+
+3. How does XML ensure interoperability?
+
+Dahil ang XML ay gumagamit ng standard text-based format na maaaring basahin at gamitin ng iba't ibang programs at systems.
